@@ -1,0 +1,6 @@
+*.wav
+*.png
+
+.idea
+song-data
+poke-data
